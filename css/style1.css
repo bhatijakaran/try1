@@ -1,0 +1,88 @@
+body{
+  background-image: url("../images/bg-desktop.svg");
+  background-color: purple;
+  color: white;
+}
+.main{
+
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.label{
+  margin-top: 30px;
+}
+.contentmid{
+  margin-top: 30px;
+}
+.illustration{
+  float: left;
+  margin-right: 40px;
+}
+.content{
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+  position: relative;
+  top: 50px;
+}
+.contentdesc{
+  font-size: 1rem;
+  font-weight: 100;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  left: 5px;
+  top: 40px;
+  line-height: 2;
+}
+.social{
+  height: 25px;
+  width: 20px;
+}
+.register{
+  margin-top: 40px;
+  margin-left: 10px;
+}
+.footer{
+  position: relative;
+  left: 330px;
+  top: 80px;
+}
+.links{
+  margin-left: 20px;
+}
+.btn {
+	background-color:white;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:grey;
+	font-family:arial;
+	font-size:14px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:180px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #2f6627;
+}.
+btn:hover {
+	background-color:#5cbf2a;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
